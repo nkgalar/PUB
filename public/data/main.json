@@ -45,7 +45,7 @@
                         "type": "file-other",
                         "path": "./public/database/zihan.design/assets/.DS_Store",
                         "size": 6148,
-                        "mtime": "Fri Sep 30 2016 13:35:01 GMT+0800 (HKT)"
+                        "mtime": "Fri Sep 30 2016 14:19:33 GMT+0800 (HKT)"
                     },
                     {
                         "name": "favicon.ico",
@@ -65,7 +65,7 @@
                                 "type": "file-other",
                                 "path": "./public/database/zihan.design/assets/images/.DS_Store",
                                 "size": 12292,
-                                "mtime": "Fri Sep 30 2016 13:35:11 GMT+0800 (HKT)"
+                                "mtime": "Fri Sep 30 2016 14:33:38 GMT+0800 (HKT)"
                             },
                             {
                                 "name": "2016-06-01",
@@ -164,42 +164,49 @@
                                 "name": "2016-06-03",
                                 "type": "folder",
                                 "path": "./public/database/zihan.design/assets/images/2016-06-03",
-                                "mtime": "Fri Sep 30 2016 11:53:47 GMT+0800 (HKT)",
+                                "mtime": "Fri Sep 30 2016 14:33:22 GMT+0800 (HKT)",
                                 "files": [
                                     {
                                         "name": ".DS_Store",
                                         "type": "file-other",
                                         "path": "./public/database/zihan.design/assets/images/2016-06-03/.DS_Store",
                                         "size": 6148,
-                                        "mtime": "Fri Sep 30 2016 13:35:08 GMT+0800 (HKT)"
+                                        "mtime": "Fri Sep 30 2016 14:33:28 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "1.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-06-03/1.jpg",
-                                        "size": 1937680,
-                                        "mtime": "Fri Sep 30 2016 13:35:10 GMT+0800 (HKT)"
+                                        "size": 228480,
+                                        "mtime": "Fri Sep 30 2016 14:33:28 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "2.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-06-03/2.jpg",
-                                        "size": 731413,
-                                        "mtime": "Fri Sep 30 2016 13:35:06 GMT+0800 (HKT)"
+                                        "size": 459541,
+                                        "mtime": "Fri Sep 30 2016 14:33:29 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "2016-06-03-the-forest.md",
                                         "type": "file-other",
                                         "path": "./public/database/zihan.design/assets/images/2016-06-03/2016-06-03-the-forest.md",
                                         "size": 296,
-                                        "mtime": "Fri Sep 30 2016 13:35:05 GMT+0800 (HKT)"
+                                        "mtime": "Fri Sep 30 2016 14:33:28 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "3.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-06-03/3.jpg",
-                                        "size": 2049606,
-                                        "mtime": "Fri Sep 30 2016 13:35:08 GMT+0800 (HKT)"
+                                        "size": 267946,
+                                        "mtime": "Fri Sep 30 2016 14:33:29 GMT+0800 (HKT)"
+                                    },
+                                    {
+                                        "name": "4.jpg",
+                                        "type": "file-img",
+                                        "path": "./public/database/zihan.design/assets/images/2016-06-03/4.jpg",
+                                        "size": 80204,
+                                        "mtime": "Fri Sep 30 2016 14:33:29 GMT+0800 (HKT)"
                                     }
                                 ]
                             },
@@ -351,35 +358,35 @@
                                         "type": "file-other",
                                         "path": "./public/database/zihan.design/assets/images/2016-09-19/.DS_Store",
                                         "size": 6148,
-                                        "mtime": "Fri Sep 30 2016 13:35:27 GMT+0800 (HKT)"
+                                        "mtime": "Fri Sep 30 2016 14:25:47 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "1.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-09-19/1.jpg",
-                                        "size": 86130,
-                                        "mtime": "Fri Sep 30 2016 13:35:27 GMT+0800 (HKT)"
+                                        "size": 208356,
+                                        "mtime": "Fri Sep 30 2016 14:25:47 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "2.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-09-19/2.jpg",
-                                        "size": 88217,
-                                        "mtime": "Fri Sep 30 2016 13:35:26 GMT+0800 (HKT)"
+                                        "size": 116755,
+                                        "mtime": "Fri Sep 30 2016 14:25:47 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "3.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-09-19/3.jpg",
-                                        "size": 54581,
-                                        "mtime": "Fri Sep 30 2016 13:35:26 GMT+0800 (HKT)"
+                                        "size": 200118,
+                                        "mtime": "Fri Sep 30 2016 14:25:47 GMT+0800 (HKT)"
                                     },
                                     {
                                         "name": "4.jpg",
                                         "type": "file-img",
                                         "path": "./public/database/zihan.design/assets/images/2016-09-19/4.jpg",
-                                        "size": 196717,
-                                        "mtime": "Fri Sep 30 2016 13:35:26 GMT+0800 (HKT)"
+                                        "size": 54101,
+                                        "mtime": "Fri Sep 30 2016 14:25:47 GMT+0800 (HKT)"
                                     }
                                 ]
                             },
