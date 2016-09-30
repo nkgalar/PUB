@@ -3,7 +3,7 @@ layout: post
 title:  "Nine Pictures"
 date:   2016-09-24 15:39:40
 permalink: nine-pictures
-preview: /assets/images/2016-09-24/2.jpg
+preview: /assets/images/2016-09-24/10.jpg
 ---
 
 ![Picture 1](/assets/images/2016-09-24/1.jpg)
